@@ -1,0 +1,52 @@
+/* Mobile 375 */
+@media screen and (max-width: 37px) {
+    body {
+        max-width: 375px;
+    }
+    .header{
+        width: 100%;
+        border-bottom: 2px solid black;
+        height: 133px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .content-image {
+        width: 375px;
+        height:235px;
+        left: 0px;
+        top: 117px;
+    }
+    .content-heading{
+        text-align: center;
+        font-size: 36px;
+        font-family: 'New York Extra Large';
+        font-weight: 700;
+        line-height: 43px;
+        font-style: normal;
+    }  
+   
+    .content-sub-heading{
+        text-align: center;
+        font-size: 16px;
+        font-family: 'SF Mono';
+        font-weight: 400;
+        line-height: 170%;
+    }
+
+    .articles-image{
+        width: 335px;
+        height: 194px;
+        left: 20px;
+        top: 836px;
+    }
+
+    .articles-text{
+        font-family: 'SF Pro Display';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 120%;
+        text-align: center;
+    }
+}
