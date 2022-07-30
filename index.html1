@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="BT cuoiky.css">
+</head>
+<body>
+    <div class="main">
+        <div class="header"></div>
+            <div class="header-image">
+                <img src="NORDIC ROSE.png" alt="">
+            </div>    
+        <div class="content">
+            <div class="content-image">
+                <img src="image 2.png" alt="">
+            </div>
+            <h2 class="content-heading">A few words about this blog platform, Ghost, and how this site was made</h2>
+            <p class="content-sub-heading">
+                Why Ghost (& Figma) instead of Medium, WordPress or other options?
+            </p>
+    </div>
+    <div id="so10" class="to">
+        <ul id="so6">
+            <li id="so7"><strong>MIKA MATIKAINEN</strong></li>
+            <li id="so8">Apr 15, 2020 . 4 min read</li>
+        </ul>
+    </div> 
+    <div class="to">
+    <table id="mxh" border="1" >
+        <tr>
+            <td id="fb"><img src="./fb.jpg" alt="fb"></td>
+            <td id="tw"><img src="./tw.jpg" alt="tw"></td>
+            <td id="call"><img src="./call.jpg" alt="call"></td>
+        </tr>
+    </table>
+    </div>   
+    <div id="vb">
+        <p>This lovely web is full of everything which is created I don't know what in mind, considering that sometimes totally bonkers stuff might be highly relevant if it has the right kind of thinking behind it. </p>
+    </div>
+    <h1 id="h">Next on the pipeline</h1>
+    <div id="vb2">
+        <p>This lovely web is full of everything which is created I don't know what in mind, considering that sometimes totally bonkers stuff might be highly relevant if it has the right kind of thinking behind it. </p>
+    </div>
+    <img id="anh" src="Rectangle 8.jpg" alt="anh">
+    <p id="p">Image caption centered this way and I'll make this a bit longer to indicate the amount of line-height.</p>
+    <div id="vb3">
+        <p>This lovely web is full of everything which is created I don't know what in mind, considering that sometimes totally bonkers stuff might be highly relevant if it has the right kind of thinking behind it. </p>
+        <p>Luckily, in the middle of all that, there are some pockets of content that offer delightfully valuable contrast to cursory wisdom in some of the established channels.</p>
+    </div>
+    <p id="vb4">Share:</p>
+    <div class="to">
+    <table id="mxh" border="1" >
+        <tr>
+            <td id="fb"><img src="./fb.jpg" alt="fb"></td>
+            <td id="tw"><img src="./tw.jpg" alt="tw"></td>
+            <td id="call"><img src="./call.jpg" alt="call"></td>
+        </tr>
+    </table>
+    </div>
+    <p id="vb5">Tag: <u>product design</u>,   <u>culture</u></p>
+    <div>
+        <p id="ngoc"></p>
+    </div>
+    <div>
+        <img src="image 3.jpg" id="anh1">
+        <p id="vb6"><strong>MIKA MATIKAINEN</strong> is a Design Founder & Advisor, Berlin School of Creative Leadership Executive MBA participant, Zippie advisor, Wolt co-founder, and Nordic Rose stakeholder</p>
+    </div>
+    <div class="body-image">
+        <h1 class="about-image">What to read next</h1>
+        <div class="image-list">
+            <a href="">
+                <div class="image-name">
+                    <img src="./assets/Rectangle 4.png" alt="">
+                    <p class="image-texts1">Granny gives everyone the finger, and other tips from OFFF Barcelona</p>
+                </div>
+            </a>
+            
+            <a href="">
+                <div class="image-name">
+                    <img src="./assets/Rectangle 11.png" alt="">
+                    <p class="image-texts1">Hello world, or, in other words, why this blog exists</p>
+                </div>
+            </a>
+
+            <a href="">
+                <div class="image-name">
+                    <img src="./assets/Rectangle 10.png" alt="">
+                    <p class="image-texts1">Here are some things you should know regarding how we work </p>
+                </div>
+            </a>
+            
+        <div class="finish">
+            <form name="emaill_form" action="" method="post">
+                <h1>Sign up for the newsletter</h1>
+                <p>If you want relevant updates occasionally, sign up for the private newsletter. Your email is never shared. </p>
+                <input type="text" name="email" maxlength="6" placeholder="Enter your email..."></form>
+                <p><input type="submit" name="submit" value="Sign up"></p>
+            </form>
+        </div>  
+    </div> 
+    <div class="footer">
+        <ul class="footer-list">
+            <li class="footer-item">REMOTE WORK</li>
+            <li class="footer-item-1">UX DESIGN</li>
+            <li class="footer-item">DISTRIBUTED TEAMS</li>
+        </ul>
+    <div class="footer-img">
+        <img src="NORDIC ROSE (1).png" alt="">
+    </div>
+    <div class="about-footer">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu velit
+    tempus erat egestas efficitur. In hac habitasse platea dictumst. Fusce a nunc eget
+    ligula suscipit finibus. 
+    </div>
+    <div class="footer-social">
+        <ul class="footer-social-list">
+            <li class="footer-social-item">
+                <a href="" class="footer-social-link">Twitter</a>
+            </li>
+            <li class="footer-social-item">
+                <a href="" class="footer-social-link">LinkedIn</a>
+            </li>
+            <li class="footer-social-item">
+                <a href="" class="footer-social-link">RSS</a>
+            </li>
+        </ul>
+            </div>
+            <div class="footer-description">
+                © 2012–2020 Nordic Rose Co. 
+                All rights reserved.  
+            </div>
+</div>
+</body>
+</html>
